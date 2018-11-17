@@ -1,0 +1,58 @@
+removeContact
+Boris
+addContactOrdered
+Boris
+addInformation
+Boris
+wife
+Julie
+printContact
+Boris
+addContactOrdered
+Natasha Rostova
+addInformationOrdered
+Natasha Rostova
+cousin
+Sonya
+addInformationOrdered
+Natasha Rostova
+godmother
+Marya
+addInformation
+Natasha Rostova
+fiancee
+Andrei Bolkonsky
+printContact
+Natasha Rostova
+addContactOrdered
+Sonya Rostova
+addInformation
+Sonya Rostova
+fiancee
+Nikolai
+addInformation
+Sonya Rostova
+cousin
+Natasha
+addInformation
+Nikolai Rostov
+sister
+Natasha
+addContact
+Pierre Bezukhov
+printContact
+Sonya Rostova
+count
+print
+removeContact
+Boris
+count
+removeInformation
+Sonya Rostova
+fiancee
+addInformation
+Natasha Rostova
+fiancee
+Pierre
+print
+quit
