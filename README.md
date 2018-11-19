@@ -1,2 +1,3 @@
-# CS100
-Projects from CS100, Fall 2017 semester.
+# Coursework
+CS100 - Fall 2017
+CS101 - Spring 2018
